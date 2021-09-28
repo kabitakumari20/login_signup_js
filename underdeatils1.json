@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "user_name": "sa",
+      "password1": "1",
+      "profile": {
+        "description": "g",
+        "dob": "g",
+        "hobbies": "g",
+        "gender": "g"
+      }
+    },
+    {
+      "user_name": "dg",
+      "password1": "5",
+      "profile": {
+        "description": "jk",
+        "dob": "jk",
+        "hobbies": "jk",
+        "gender": "kl"
+      }
+    },
+    {
+      "user_name": "manvi",
+      "password1": "manvi@123",
+      "profile": {
+        "description": "i am manvi",
+        "dob": "3-5-2000",
+        "hobbies": "read book",
+        "gender": "female"
+      }
+    },
+    {
+      "user_name": "mona",
+      "password1": "mona@123",
+      "profile": {
+        "description": "ertyui",
+        "dob": "sdfgthj",
+        "hobbies": "ertyui",
+        "gender": "dfghj"
+      }
+    }
+  ]
+}
